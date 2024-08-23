@@ -1,1 +1,11 @@
+#include <bits\stdc++.h>
+using namespace std;
 
+int main() {
+	// your code goes here
+	int m,n;
+	cin>>m>>n;
+	cout<<7-(m+n);
+	return 0;
+
+}
